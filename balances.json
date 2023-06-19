@@ -1,0 +1,24 @@
+{
+  "last_updated": 1687198145,
+  "accounts": [
+    {
+      "name": "SMB Treasury",
+      "address": "HAryckvjyViFQEmhmMoCtqqBMJnpXEYViamyDhZUJfnG",
+      "type": "SOL",
+      "symbol": "◎",
+      "prevBalances": {
+        "str": "0",
+        "num": 0
+      },
+      "currentBalances": {
+        "str": "0",
+        "num": 0
+      },
+      "balanceChange": {
+        "str": "0",
+        "num": 0,
+        "direction": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "treasurybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "datboimatt",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.77.3",
+    "axios": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "nodeVersion": "16.17.0"
+}
